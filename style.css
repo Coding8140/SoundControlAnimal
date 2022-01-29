@@ -1,0 +1,36 @@
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    background-color: aqua;
+}
+.header_div{
+    background:white ;
+    color:purple;
+}
+
+.header_div p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(37, 0, 85);
+    letter-spacing: 2px ;
+    font-size: 12px ;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:fantasy;
+    margin-top: 30px ;
+    width: 130px ;
+    font-weight: bolder;
+    letter-spacing: 3px ;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: black;
+    bottom: 0;
+    text-align: center;
+    width: 100% ;
+    font-size: 18px ;
+    background-color:aquamarine ;
+    line-height: 3 ;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
